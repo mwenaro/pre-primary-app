@@ -1,0 +1,29 @@
+{
+  "name": "pre-primary-app",
+  "version": "1.0.0",
+  "description": "A web-based(html,js&css) pre-primary learners' app",
+  "main": "index.js",
+  "scripts": {
+    "npm build": "",
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwenaro/pre-primary-app.git"
+  },
+  "keywords": [
+    "alphabets",
+    "numbers",
+    "pri-primary",
+    "learner",
+    "sounds",
+    "rhymes"
+  ],
+  "home": "https://mwenaro/github.com/pre-primary-app.git",
+  "author": "MWERO ABDALLA",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
