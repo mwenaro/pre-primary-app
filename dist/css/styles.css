@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+    color: #000;
+
+}
+.wrapper{
+    margin: auto;
+    width:80%;
+    min-height: 500px;
+}
+.title{
+    text-align: center;
+    
+}
+.site-description{
+    text-align: right;
+}
+footer{
+    text-align: center;
+}
