@@ -1,12 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+section,aside,nav,div,header,footer{
+    display: block;
+}
 body{
-    background-color: beige;
+    background-color: #e5e5e5;
     color: #000;
 
+}
+.container{
+    margin:20px;
+    padding: 30px;
 }
 .wrapper{
     margin: auto;
     width:80%;
-    min-height: 500px;
+    min-height: 650px;
+    background-color: #fff;
+}
+header{
+    height: 100px;
 }
 .title{
     text-align: center;
@@ -15,6 +29,15 @@ body{
 .site-description{
     text-align: right;
 }
+.main{
+    
+    
+ 
+}
 footer{
+    
+    background-color: red;
     text-align: center;
+    height: 100px;
+    bottom:-100px;
 }
