@@ -1,5 +1,8 @@
 *{
     box-sizing: border-box;
+    margin:0;
+    padding: 0;
+
 }
 section,aside,nav,div,header,footer{
     display: block;
@@ -28,6 +31,16 @@ header{
 }
 .site-description{
     text-align: right;
+    font-family: Lobster , Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Lobster , "Moon Dance", monospace; */
+    font-size: 30px;
+    color: #00b;
+    margin-right: 100px;
+    border: 2px solid red;
 }
 .main{
     
